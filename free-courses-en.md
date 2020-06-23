@@ -140,7 +140,8 @@
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
 * [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
-* [Git and Gitlab coursera](https://www.coursera.org/learn/introduction-git-github)
+* [Git and Gitlab](https://www.coursera.org/learn/introduction-git-github)(coursera)
+* [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)(coursera)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 
 
